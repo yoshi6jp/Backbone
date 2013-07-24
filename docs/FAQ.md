@@ -1,5 +1,7 @@
 +  元文書: [backbone/index.html at 9890d49db164e63b9b56e9d664ec0aab2289e0de · documentcloud/backbone · GitHub](https://github.com/documentcloud/backbone/blob/9890d49db164e63b9b56e9d664ec0aab2289e0de/index.html "backbone/index.html at 9890d49db164e63b9b56e9d664ec0aab2289e0de · documentcloud/backbone · GitHub")
 
+## kamata
+
 ##イベントの一覧 [原文](http://backbonejs.org/#FAQ-events)
 
 Backbone.jsで発火する組み込みイベントの一覧を示します。このほかにも、ModelやViewで独自のイベントを自由にトリガすることができます。
